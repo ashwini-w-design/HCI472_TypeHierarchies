@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html body{
+    background-color: rgba(240, 248, 255, 1.00);
+}
+
+  .bg-body-tertiary{
+    background-color: rgb(255, 255, 255) !important;
+  }
+
+  .nav-link:hover{
+    color: rgb(8, 104, 187) !important;
+  }
+
+  .active{
+    color:rgb(8, 104, 187) !important;
+  }
+  
+  .navbar-brand{
+    color: rgb(8, 104, 187) !important;
+  }
+
+  .navbar-toggler{
+    filter: invert(70%);
+  }
+  
+  .ibm-plex-sans-medium {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500; /* Medium weight */
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  }
+  
+  .ibm-plex-sans-light {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300; /* Light weight */
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  }
+  
+  .bodoni-moda {
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  }
+  
+  .sofia-sans {
+    font-family: "Sofia Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .sofia-sans-extra-condensed {
+    font-family: "Sofia Sans Extra Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
